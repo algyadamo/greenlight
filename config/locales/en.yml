@@ -260,7 +260,7 @@ en:
       start: Start searching...
   landing:
     #about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    about: "O WebConf da MoRENet é um serviço de vídeo conferência que permite reunir pessoas que estejam distantes geograficamente através de vídeo, áudio e outros recursos. O seu acesso não necessita da instalação de nenhuma aplicação adiconal, desde que tenha o convite (link) é possivel aceder a partir de um navegador."
+    about: O WebConf da MoRENet é um serviço de vídeo conferência que permite reunir pessoas que estejam distantes geograficamente através de vídeo, áudio e outros recursos. O seu acesso não necessita da instalação de nenhuma aplicação adiconal, desde que tenha o convite (link) é possivel aceder a partir de um navegador.
     welcome: Bem Vindo ao WebConf da MoRENet.
     video: Previna-se da Convid-19#FicaEmCasa
     upgrade: Show me how to upgrade to 2.0!
